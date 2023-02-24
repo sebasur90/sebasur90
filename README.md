@@ -6,4 +6,4 @@ Comencé mi viaje de programación en Python hace unos años como un pasatiempo 
 
 He trabajado en proyectos que van desde pequeñas aplicaciones hasta proyectos más grandes. He utilizado Python para construir aplicaciones web utilizando Flask, Django y Streamlit, creado programas para el análisis de datos, automatizado tareas repetitivas y  participado en proyectos de aprendizaje automático.
 
-![Example image](./img/linkedin.png)
+![Example image](./linkedin.png)
