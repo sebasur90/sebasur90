@@ -6,4 +6,4 @@ Comencé mi viaje de programación en Python hace unos años como un pasatiempo 
 
 He trabajado en proyectos que van desde pequeñas aplicaciones hasta proyectos más grandes. He utilizado Python para construir aplicaciones web utilizando Flask, Django y Streamlit, creado programas para el análisis de datos, automatizado tareas repetitivas y  participado en proyectos de aprendizaje automático.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sebastian-rodriguez-9b417830)
+[![LinkedIn]](https://www.linkedin.com/in/sebastian-rodriguez-9b417830)
